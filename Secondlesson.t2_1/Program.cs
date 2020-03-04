@@ -8,7 +8,7 @@ namespace Secondlesson.t2_1
         {
             Console.WriteLine("Hey, what's your name?");
             string userName = Console.ReadLine();
-            Console.WriteLine("Your name is " + userName);
+            Console.WriteLine("Your name iss " + userName);
 
         }
     }
