@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secondlesson.t2_1", "..\Sec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secondlesson.operator", "..\Secondlesson\Secondlesson.theory\Secondlesson.operator.csproj", "{982909B6-B162-46B1-8032-69956EA7553C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secondlesson.calculator", "..\Secondlesson\Secondlesson.calculator\Secondlesson.calculator.csproj", "{5208C7A5-0D51-4A2B-AD65-8039F407520C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{982909B6-B162-46B1-8032-69956EA7553C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{982909B6-B162-46B1-8032-69956EA7553C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{982909B6-B162-46B1-8032-69956EA7553C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5208C7A5-0D51-4A2B-AD65-8039F407520C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5208C7A5-0D51-4A2B-AD65-8039F407520C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5208C7A5-0D51-4A2B-AD65-8039F407520C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5208C7A5-0D51-4A2B-AD65-8039F407520C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
