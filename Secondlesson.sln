@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secondlesson.operator", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secondlesson.calculator", "..\Secondlesson\Secondlesson.calculator\Secondlesson.calculator.csproj", "{5208C7A5-0D51-4A2B-AD65-8039F407520C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secondlesson.degrees", "..\Secondlesson\Secondlesson.degrees\Secondlesson.degrees.csproj", "{B11D0A0D-4BA8-439F-8226-FE774407626D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5208C7A5-0D51-4A2B-AD65-8039F407520C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5208C7A5-0D51-4A2B-AD65-8039F407520C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5208C7A5-0D51-4A2B-AD65-8039F407520C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11D0A0D-4BA8-439F-8226-FE774407626D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11D0A0D-4BA8-439F-8226-FE774407626D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11D0A0D-4BA8-439F-8226-FE774407626D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11D0A0D-4BA8-439F-8226-FE774407626D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
